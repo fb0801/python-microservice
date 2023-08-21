@@ -21,3 +21,5 @@ https://www.toptal.com/developers/gitignore/
 https://www.w3schools.com/django/django_install_django.php
 
 https://www.django-rest-framework.org/
+
+https://www.youtube.com/watch?v=pg19Z8LL06w
