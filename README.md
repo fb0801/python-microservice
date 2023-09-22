@@ -7,6 +7,10 @@ Web app microservice built using React, Django and Flask using this <a href="htt
 
 ## Issues:
 
+- needed to install Docker and upgrade WSL
+
+had to use this command to create mysql db within docker -> command: --innodb_use_native_aio=0
+
 
 ## Resources used:
 
@@ -23,3 +27,11 @@ https://www.w3schools.com/django/django_install_django.php
 https://www.django-rest-framework.org/
 
 https://www.youtube.com/watch?v=pg19Z8LL06w
+
+https://stackoverflow.com/questions/50222972/docker-compose-not-finding-my-files
+
+https://stackoverflow.com/questions/76103836/docker-compose-is-not-a-docker-command-under-windows-10-but-docker-cli-is-w
+
+https://www.geeksforgeeks.org/how-to-install-docker-on-windows/
+
+https://stackoverflow.com/questions/49958895/how-to-set-up-docker-compose-to-initialize-mysql-database-on-windows-10

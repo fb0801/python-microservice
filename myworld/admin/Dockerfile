@@ -1,4 +1,4 @@
-From python: 3.10
+From python:3.10
 ENV PYTHONUNBUFFERED 1
 WORKDIR /app
 COPY requirements.txt /app/requirements.txt
