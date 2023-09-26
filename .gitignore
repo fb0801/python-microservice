@@ -511,4 +511,7 @@ sketch
 pyvenv.cfg
 pip-selfcheck.json
 
+myworld/admin/.dbdata
+
 # End of https://www.toptal.com/developers/gitignore/api/venv,python,flask,django,react,node
+
