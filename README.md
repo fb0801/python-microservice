@@ -11,7 +11,11 @@ Web app microservice built using React, Django and Flask using this <a href="htt
 
 - had to use this command to create mysql db within docker -> command: --innodb_use_native_aio=0
 
-- to fix mysql module error  -> pip install mysqlclient
+- to fix mysql module error  -> pip install mysqlclient 
+
+- if run into wsl error with docker use in cmd as admin -> sc config LxssManager start=auto
+
+- WITH DOCKER DO NOT ACCEPT POPUP FROM KASPERSKY ABOUT LINUX NAME ERROR AS IT WILL PREVENT WSL AND DOCKER RUNNING
 
 
 ## Resources used:
@@ -47,3 +51,7 @@ https://pypi.org/project/django-cors-headers/
 https://stackoverflow.com/questions/54030469/host-x-is-not-allowed-to-connect-to-this-mysql-server
 
 https://stackoverflow.com/questions/65369567/import-rest-framework-could-not-be-resolved-but-i-have-installed-djangorestfr
+
+https://stackoverflow.com/questions/65583150/wsl-set-default-version-2-the-service-cannot-be-started-either-because-it-is
+
+https://github.com/Microsoft/WSL/issues/3815
