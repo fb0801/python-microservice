@@ -55,3 +55,7 @@ https://stackoverflow.com/questions/65369567/import-rest-framework-could-not-be-
 https://stackoverflow.com/questions/65583150/wsl-set-default-version-2-the-service-cannot-be-started-either-because-it-is
 
 https://github.com/Microsoft/WSL/issues/3815
+
+https://pypi.org/project/Flask-Cors/1.10.3/
+
+https://stackoverflow.com/questions/68527489/cant-import-migratecommand-from-flask-migrate
