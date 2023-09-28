@@ -1,6 +1,9 @@
 # python-microservice
 Web app microservice built using React, Django and Flask using this <a href="https://www.youtube.com/watch?v=0iB5IPoTDts&pp=ygUUcHl0aG9uIG1pY3Jvc2VydmljZXM%3D">video</a> by Freecodecamp
 
+Tech stack:
+
+Python, REACT, Docker, RabbitMQ, Flask, Django
 
 ## Changes made:
 
