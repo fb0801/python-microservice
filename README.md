@@ -62,3 +62,5 @@ https://github.com/Microsoft/WSL/issues/3815
 https://pypi.org/project/Flask-Cors/1.10.3/
 
 https://stackoverflow.com/questions/68527489/cant-import-migratecommand-from-flask-migrate
+
+https://www.cloudamqp.com/
